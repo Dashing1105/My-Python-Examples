@@ -1,2 +1,2 @@
-# My Python Exanmples
+# My Python Examples
  Play Python
